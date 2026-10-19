@@ -4,7 +4,7 @@
 This Power BI dashboard provides a comprehensive regional and category-level analysis of sales performance, profitability, and order volumes. The objective of this interactive report is to evaluate revenue metrics, analyze profit margins across different business regions, and identify key product categories driving corporate growth.
 
 ---
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](dashboard.jpeg)
 
 
 ## 📌 Executive Summary & Key Metrics (KPIs)
